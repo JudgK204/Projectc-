@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\joy_dao\\.nuget\\packages\\": {}
+    "C:\\Users\\Windows\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\projectMVC\\projectMVC\\projectMVC.csproj",
+      "projectUniqueName": "E:\\C#\\Learning\\ProjectC#\\Projectc-\\projectMVC\\projectMVC.csproj",
       "projectName": "projectMVC",
-      "projectPath": "D:\\C#\\projectMVC\\projectMVC\\projectMVC.csproj",
-      "packagesPath": "C:\\Users\\joy_dao\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\projectMVC\\projectMVC\\obj\\",
+      "projectPath": "E:\\C#\\Learning\\ProjectC#\\Projectc-\\projectMVC\\projectMVC.csproj",
+      "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
+      "outputPath": "E:\\C#\\Learning\\ProjectC#\\Projectc-\\projectMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\joy_dao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
